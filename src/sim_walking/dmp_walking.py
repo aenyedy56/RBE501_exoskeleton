@@ -23,6 +23,7 @@ class DMP:
 
 
     def train(self):
+        dt = 1
         trial_len = 0
         T = []
         q = []
